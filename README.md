@@ -1,2 +1,1 @@
-# hello-world
-demo repository
+this tutorial of distributed version control systems
